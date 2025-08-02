@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-## Hi, I'm Jon.
-
-
+Hi, I'm Jon.
 
 I'm an educator turned software developer focusing on education, media, and communication development.
 
