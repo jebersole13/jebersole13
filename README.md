@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-
-
-Hi, I'm Jon.
+## Hi, I'm Jon.
 
 I'm a web developer focusing on education, media, and communication development.
 
@@ -10,16 +8,5 @@ This is my GitHub, where you can see some public projects and connect with me.
 
 
 <!--
-**jebersole13/jebersole13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
