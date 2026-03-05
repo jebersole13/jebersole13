@@ -2,12 +2,15 @@
 
 Hi, I'm Jon.
 
-I'm an educator turned software developer focusing on education, media, and communication development.
+I'm an english educator turned software developer living in Japan.
 
-This is my GitHub, where you can see some public projects and connect with me. 
+My main webstack is Python through Django for the backend and TypeScript with Astro.JS for frontend.
 
+PostgreSQL is my go-to, but other SQL based DB like MySql and SQLite I have also worked with.
 
+Working on integrating Flutter for mobile development. 
 
+AI Policy: It is a helpful tool, but cannot replace human thinking and should not lead decision making.
 
 <!--
 
