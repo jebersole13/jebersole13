@@ -10,7 +10,7 @@ PostgreSQL is my go-to, but other SQL based DB like MySql and SQLite I have also
 
 Working on integrating Flutter for mobile development. 
 
-AI Policy: It is a helpful tool, but cannot replace human thinking and should not lead decision making.
+AI Policy: It can be a helpful tool, but it cannot replace human thinking and should not lead decision making.
 
 <!--
 
