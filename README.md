@@ -2,11 +2,11 @@
 
 Hi, I'm Jon.
 
-I'm an english educator turned software developer living in Japan.
+I'm an English Educator turned Software Developer living in Japan.
 
-My main webstack is Python through Django for the backend and TypeScript with Astro.JS for frontend.
+My main webstack is Python with Django for the backend and TypeScript with Astro.JS for frontend.
 
-PostgreSQL is my go-to, but other SQL based DB like MySql and SQLite I have also worked with.
+PostgreSQL is my go-to for databases.
 
 Working on integrating Flutter for mobile development. 
 
