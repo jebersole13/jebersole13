@@ -2,7 +2,7 @@
 
 Hi, I'm Jon.
 
-I'm an English Educator turned Software Developer living in Japan.
+I'm a Software Developer living in Japan.
 
 My main webstack is Python with Django for the backend and TypeScript with Astro.JS for frontend.
 
